@@ -1,4 +1,10 @@
 body {
-    background-color: EEEEEE;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-  }
+  background-color: #686D76;
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+  font-size: 50px;
+  color: #EEEEEE;
+}
